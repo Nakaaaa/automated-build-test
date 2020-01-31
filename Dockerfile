@@ -1,2 +1,2 @@
-FROM dockersamples/static-size
-ENV AUTHOR="kaitenma"
+FROM kaitenma/docker-whale
+ENV AUTHOR="Nakamura Kazuya"
