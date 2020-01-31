@@ -1,2 +1,2 @@
 FROM dockersamples/static-size
-ENV AUTHOR="Nakamura Kazuya"
+ENV AUTHOR="kaitenma"
